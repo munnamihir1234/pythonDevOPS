@@ -9,6 +9,7 @@ For information on how to use this repository, see [Python](https://docs.microso
 | Build image and push to Azure Container Registry (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-acr)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=15) |
 
 # Contributing
+Hello Mihir
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
